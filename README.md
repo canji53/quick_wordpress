@@ -1,9 +1,9 @@
-# quick_wordpress
+# quick_wordpress_by_DNMP
 
 ## About
 
-Docker Compose to quickly build a Wordpress development environment.
-Docker + Nginx + Mysql + PHP = **DUMP...**
+Docker Compose to quickly build a Wordpress development environment.  
+Docker + Nginx + Mysql + PHP = **DNMP...**  
 
 ## Features
 
@@ -19,7 +19,7 @@ Docker + Nginx + Mysql + PHP = **DUMP...**
 ## Usage
 
 ```bash
-git clone git@github.com:canji53/quick_wordpress.git
-cd quick_wordpress
+git clone git@github.com:canji53/quick_wordpress_by_DNMP.git
+cd quick_wordpress_by_DNMP
 docker-compose up -d
 ```
